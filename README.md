@@ -1,6 +1,6 @@
 # Projet_Apprentissage_Machine_Analyse_Exploratoire_des_donnees
 
-## Objectif du projet 
+## Objectif du projet 🎯
 Ce projet effectué dans le cadre du cours Apprentissage Machine, consiste à récupérer les données, à visualiser les données, à préparer les données pour les algorithmes de Machine Learning, appliquée à un cas réel d'e-commerce.
 
 L'objectif métier est de:
@@ -8,7 +8,7 @@ __Prédire le revenu généré par de nouveaux clients d'un site e-commerce__ et
 
 Ce travail prépare les données pour l'entraînement d'un modèle prédictif dans le devoir suivant.
 
-## Méthodologie suivie
+## Méthodologie suivie 📋
 Ce projet implémente les étapes suivantes:
 1. Compréhension du problème métier
 2. Compréhension des données
@@ -19,7 +19,7 @@ Ce projet implémente les étapes suivantes:
   - Enrichissement des données
 4. Construction d'un pipeline automatisé
 
-## Jeu de données 
+## Jeu de données 🧮
 
 Nous avons utilisé le jeu de donnée _Customer.csv_ représentant chaque profil des clients. Les variables sont: 
 
