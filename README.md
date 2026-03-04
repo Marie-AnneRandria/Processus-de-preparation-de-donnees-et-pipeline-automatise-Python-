@@ -4,7 +4,7 @@
 Ce projet effectué dans le cadre du cours Apprentissage Machine, consiste à récupérer les données, à visualiser les données, à préparer les données pour les algorithmes de Machine Learning, appliquée à un cas réel d'e-commerce.
 
 L'objectif métier est de:
-__Prédire le revenu généré par de novueaux clients d'un site e-commerce__ et d'identifier le profil du "bon client".
+__Prédire le revenu généré par de nouveaux clients d'un site e-commerce__ et d'identifier le profil du "bon client".
 
 Ce travail prépare les données pour l'entraînement d'un modèle prédictif dans le devoir suivant.
 
