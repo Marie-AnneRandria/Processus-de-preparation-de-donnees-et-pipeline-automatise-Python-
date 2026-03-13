@@ -71,7 +71,7 @@ Un pipeline scikit-learn a été construit pour automatiser:
  - Le nettoyage des valeurs manquantes
  - Le traitement des outliers
  - L'enrichissement des données
- - La préapration finale des données
+ - La préparation finale des données
 
 ### Avantages de cette pratique 🎯
  - Reproductibilité
